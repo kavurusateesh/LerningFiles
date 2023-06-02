@@ -1,0 +1,47 @@
+Interview Question 
+1)what is the javascript hosting? so how its work?
+2)what is difference between let and var ?
+3)what is event loop?
+4)what is difference b/w setout and setInterval?
+5)what are the es6 futured you have to used?
+6)where you have to used rest operator?
+7)i want to check a string palandrom or not i had a array.reverse()?
+8)what is cello copy and deep copy?
+9)what are closers?
+10)have you used any reduce function in javascript?
+11)what is the difference b/w promise and call back?
+12)how to find even number or odd number  calculated? num % 2 === 1 OR evn is - num % 2 === 0
+13)What is flexbox? we are using so many tools used like boostrap custom css
+14)Display nun and visiblety hidden?
+
+15)what are you used to hooks?
+so here lifecycle hooks means class wise functional hooks is different usestate, useref, usereducer, usememo, usecallback
+16)what is react usecallback?
+17)what is the getderivedstatefromprops? (before rendering the component its calling this mothod exp
+super()
+this.state={currentVal:0}
+exp -static getDerivedStateFromProps(props,state){
+console.log(props,state);
+return {currentVal : props.data * 10 }
+}
+18)what is that pure compoent?
+19)what are higher order component HOC ?
+20)Have you used any context apis?
+21)Have you used any middleware? saga and redux thunk
+22)why we are go middleware? there is intaractor in reducer and action so here made changes action type is passed based on type reducer is called in the middle ware is performd
+23)which version is currently used? so iam using latest version
+24)what is the arrow function?
+25)what is the callback function?
+26)Do you know recursive function?
+27)if you have any fetching time any error in react page component so how can you handle it? In class based compoent we are used to componentDidCatch(err){}
+28)what is that object.sield object.freeze ? freeze means object properties cannot be changed exp     
+const person = {
+         "name" : "Suresh",
+         "Country" : "India",
+         "Designation" : "Mayor"
+      }
+	  Object.freeze(person);
+      person.Country = "England"
+      console.log(person.Country);
+	  freeze - create(no) read(yes) update(no) delete(no) seal - create(no) read(yes) update(yes) delete(no)  preventExtensions - create(no) read(yes) update(yes) delete(yes) 
+	  

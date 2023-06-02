@@ -1,0 +1,21 @@
+1)docker image rm 2c80d2f5f18f
+2)docker ps -a
+3)docker kill f178593c1571
+4)docker stop f178593c1571
+5)docker images
+6)docker run -p 8081:8081 <image id>	
+7)docker run mycartapp
+8)docker build -t mycartapp .
+9)docker inspect 9440eba5ee98 | findstr "IPAddress"
+10)docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' 9440eba5ee98
+11)docker start 274290637db5 
+12)docker exec -it mango mongosh
+13)docker run -d -p 3000:3000 --name node-app mycartapp 
+14) docker stop c7d050df133b62340990e6e8186a6476ccd678d5d40daaf0a9cd218533f0b58e
+15)docker exec -it mango bash
+16) docker ps
+17)docker run -d -p 2717:27017 -v ~/mycartapp:/data/db --name mango mongo:latest
+18)docker stop mycartapp
+19)docker pull mongo 
+20)docker build .  
+

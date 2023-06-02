@@ -1,0 +1,41 @@
+1)git clone https://----------------- .
+2)git branch
+3)git checkout sateesh-development
+4)git fetch
+5)git checkout --track origin/sateesh-development
+6)git pull origin staging
+7)git status
+8)git add filename
+9)git commit -m"discription"
+10)git push
+11)merge request
+12)git checkout -b sateesh-development //local branch created
+
+
+
+12)git reflog  (git conflict)
+13)git reset --hard id(de50674)
+14)git stash -- filename.txt
+
+/// code moved commands
+git checkout staging // error so git clean -d -f;
+git clean -d -f
+
+git remote add origin https://gitlab.com/m10426/medleymedbaseapi.git
+git push --set-upstream medleymedbase  master
+
+git remote add origin https://gitlab.com/m10426/medleymedbaseapi.git
+git push --set-upstream origin master
+
+ git remote -v
+git push -f origin staging
+git fetch --all
+
+git remote -v
+git remote add ssmedical   https://gitlab.com/m10426/ssmedicals.git
+git branch delevelopment
+git add public/ src/ error.log package.json package-lock.json .gitignore
+git commit -m""
+git push ssmedicals development
+
+

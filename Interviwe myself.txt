@@ -1,0 +1,10 @@
+Hi, Myself sateesh, i have total 6.8 years experience in IT in which 3 years in Node and 3 years in react js, I am currently working in athena global 
+thechnology in hyderabad & this is the a product base company.i have worked on different domins like health care, finance and erp applications.
+
+My currenct project is with padhama clinic, this is the health care domine in which patient can taken video consulation and doctor iniate the call and patient
+could join it, after that  doctor should generate the prescription.. Once the prescription was generated the patient was taken the medicine  through on order
+medicine erp.The patient can select delevery address based on the address the medicine was delevered.
+
+This is the flow of my application.
+
+In this application we are used backend node js and frontend rejectjs.

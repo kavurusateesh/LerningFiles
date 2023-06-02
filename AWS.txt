@@ -1,0 +1,18 @@
+// ---------------------------- AWS --------------------------//
+170+ Services 
+1st servie - simple storage service
+2nd service - Lambda
+3rd service - cloud watch 
+
+
+Jobs roles -- 
+
+cloud developer 
+AWS cloud architect
+AWS networking Specialist
+
+190+ countries so here AWS Regions 1)AP South A1 2)AP South A2 like dif
+
+
+
+
